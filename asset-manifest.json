@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-classic-redux-bank/static/css/main.93d35bc3.css",
+    "main.js": "/react-classic-redux-bank/static/js/main.6adfb0ea.js",
+    "index.html": "/react-classic-redux-bank/index.html",
+    "main.93d35bc3.css.map": "/react-classic-redux-bank/static/css/main.93d35bc3.css.map",
+    "main.6adfb0ea.js.map": "/react-classic-redux-bank/static/js/main.6adfb0ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93d35bc3.css",
+    "static/js/main.6adfb0ea.js"
+  ]
+}
